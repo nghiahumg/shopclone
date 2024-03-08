@@ -2,7 +2,7 @@
 /* ĐƠN VỊ THIẾT KẾ WEB WWW.CMSNT.CO | ZALO 0947838128 | FB.COM/NTGTANETWORK */
 session_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh'); // Timezone VIET NAM <3
-$base_url = '127.0.0.1/shop'; // Thay url web bạn
+$base_url = 'https:sellclone123.pro'; // Thay url web bạn
 
 //error_reporting(0);
 class CMSNT
